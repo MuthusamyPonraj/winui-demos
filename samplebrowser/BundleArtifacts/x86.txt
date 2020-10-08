@@ -1,0 +1,6 @@
+MainPackage=D:\Samples_18.3.0.35\WinUI\samplebrowser\bin\x86\Release\syncfusion.samplebrowser.winui_1.0.0.0_x86.appx
+SymbolPackage=D:\Samples_18.3.0.35\WinUI\samplebrowser\obj\x86\Release\Symbols\syncfusion.samplebrowser.winui_1.0.0.0_x86.appxsym
+ResourcePack=D:\Samples_18.3.0.35\WinUI\samplebrowser\bin\x86\Release\syncfusion.samplebrowser.winui_1.0.0.0_scale-100.appx
+ResourcePack=D:\Samples_18.3.0.35\WinUI\samplebrowser\bin\x86\Release\syncfusion.samplebrowser.winui_1.0.0.0_scale-125.appx
+ResourcePack=D:\Samples_18.3.0.35\WinUI\samplebrowser\bin\x86\Release\syncfusion.samplebrowser.winui_1.0.0.0_scale-150.appx
+ResourcePack=D:\Samples_18.3.0.35\WinUI\samplebrowser\bin\x86\Release\syncfusion.samplebrowser.winui_1.0.0.0_scale-400.appx
